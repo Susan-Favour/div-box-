@@ -1,0 +1,63 @@
+#img{
+      position: absolute;
+      left: 0px;
+      top: 0px;
+      margin: right 30%; 
+      width: 50%
+}
+
+#pg{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding: 25%;
+    width: 60%;
+}
+
+#form{
+    margin: 3% 28%;
+    width: 50%;
+    border: solid 1px;
+    padding: 14px 15px;
+
+}
+#container{
+    display: flex;
+
+}
+.form{
+    width: 50%;
+    padding: 25px;
+    border: solid 1px;
+    border-color: lightseagreen;
+}
+.input{
+      padding: 14px 15px;
+      /* border radius: */
+      width:50%;
+}
+#id{
+    display: flex;
+    width: 65%
+
+}
+.socials{
+    width: 50px;
+    height: 50px;
+   
+}
+.icons{
+    display:flex;
+    justify-content: space-between;
+}
+button{
+    width:40%;
+}
+#names{
+    display: grid;
+    grid-template-columns: 20% 50%;
+    justify-content: left;
+    display: flex;
+    flex: content;
+    gap: 5px;
+
+}
